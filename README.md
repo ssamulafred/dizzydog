@@ -1,4 +1,4 @@
-# Introduction (/docs/risex)
+# Introduction
 
 import { Card, Cards } from 'fumadocs-ui/components/card';
 import { Activity, FileCode } from 'lucide-react';
