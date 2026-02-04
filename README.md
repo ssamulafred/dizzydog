@@ -27,11 +27,9 @@ We call this Programmable Markets. Leverage anything, trade everything.
 * **AutoYield**: Put your idle collateral to work. Earn yield on your collateral while you trade, powered by onchain yield.
 
 **For Builders**
+**Update Coming soon**
 
-* **Unmatched Performance**: As little as 1ms execution with a target of 100k TPS, powered by RISE's continuous execution pipeline and sub-50ms block times.
-* **Synchronous Composability**: Orderbooks share state with AMMs, lending markets, and vaults in the same block, unlocking a design space impossible on fragmented venues.
-* **Modular Sub-accounts**: Programmable trading accounts that anyone can build on. Automate strategies, delegate execution, or create entirely new trading primitives—all permissionlessly.
-
+* **Unmatched Performance**:
 ## Investors
 
 RISE is backed by industry leaders investors including Galaxy Digital, Finality Capital, DACM, Vitalik Buterin and more.
