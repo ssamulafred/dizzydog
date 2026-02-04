@@ -38,8 +38,4 @@ RISE is backed by industry leaders investors including Galaxy Digital, Finality 
 
 ## Documentation
 
-<Cards>
-  <Card icon={<Activity className="text-(--rise-purple)" />} title="API" href="/docs/risex/api/" description="REST API documentation with examples for trading, order management, and account operations" />
 
-  <Card icon={<FileCode className="text-(--rise-purple)" />} title="Contract" href="/docs/risex/contracts/deployments" description="Smart contract interfaces, deployment addresses, and on-chain interaction guides" />
-</Cards>
